@@ -1,2 +1,0 @@
-# TestAuto
-Test automation 
